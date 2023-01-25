@@ -1,0 +1,365 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml:17:1-52:12
+INJECTED from /home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml:17:1-52:12
+INJECTED from /home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml:17:1-52:12
+INJECTED from /home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml:17:1-52:12
+MERGED from [androidx.databinding:viewbinding:7.3.1] /home/oriade-soft-dev/.gradle/caches/transforms-3/5d41ac882315a24f7cdd5764470ca69c/transformed/jetified-viewbinding-7.3.1/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.fragment:fragment-testing:1.5.5] /home/oriade-soft-dev/.gradle/caches/transforms-3/2f17188a359657c15f79654adf3f3cc2/transformed/jetified-fragment-testing-1.5.5/AndroidManifest.xml:17:1-40:12
+MERGED from [androidx.fragment:fragment-ktx:1.5.5] /home/oriade-soft-dev/.gradle/caches/transforms-3/7a6e92930a0b39e2730adf3fb6eeb056/transformed/jetified-fragment-ktx-1.5.5/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.8.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/e167ad528ae26b9921b0a2b967b25f84/transformed/material-1.8.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/oriade-soft-dev/.gradle/caches/transforms-3/298cde4e8f53554f03c8dd5af839572c/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/0c3a33e97fc30c5b56d2d8bd07cf5a30/transformed/jetified-appcompat-resources-1.6.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/5c03a391317d7246990049ee3c76c15b/transformed/appcompat-1.6.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/0bb3362ae9183caf5bc95cddcb7cf8c0/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/fc1ea90aaab4ca25e740cbc3ee9ba859/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.5.5] /home/oriade-soft-dev/.gradle/caches/transforms-3/aca9bf872eb890b3c8c5704a30799c95/transformed/fragment-1.5.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.6.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/7b5e4dfdd5dbc989e9054543cd677789/transformed/jetified-activity-1.6.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.6.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/c665379d20e63f89d261ad94268a3e69/transformed/jetified-activity-ktx-1.6.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /home/oriade-soft-dev/.gradle/caches/transforms-3/2c67240205a979b0c55d316d00027510/transformed/jetified-lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/34e123b47194e11067eb8031d6fa293c/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/3c5bc890a1f74eda248c83c01fb5c862/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/3561c00a7b9e26f5abc0a567792dddc4/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/f3f9f174bf3e072e5123b707a16838a1/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /home/oriade-soft-dev/.gradle/caches/transforms-3/ea447920b881072949b22a3f9cb6e9da/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /home/oriade-soft-dev/.gradle/caches/transforms-3/e5374d4078674ba54e67f2c8adf872c5/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /home/oriade-soft-dev/.gradle/caches/transforms-3/3dcc3da2082b38863acf223f2ea271b4/transformed/jetified-lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/88b18ed2a28342751174c8f28baa2866/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/899afbd7de8e49bac8d94babead35924/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/oriade-soft-dev/.gradle/caches/transforms-3/6eef259bb3fa3dd35c0f33e3801b3f2e/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/6cbd0eb033f8d92fb928982b8a90a9c6/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/fcef9af2c7a8c5d632ddf89d8b9e6429/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/6efdcaf2ca5ba78dd278b4a40c3f4696/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/b11d8a94896ac79f275d0eec411bb9eb/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/833d251242322d593cf894da73fd29e1/transformed/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/78bd238257028de90131885c2b61e2c5/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/60cac8cf54d1011eb500415ae86f6355/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/947a0b3ddf80a352318fca6c3c3fcadb/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/ce05bc7d27c3c8034ce410987c6c19e3/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/7f2e0a8a74db8de6fdc2b569ddfc1cf6/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/ba5fe10c733ae640e26b5c166b1b8e68/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.9.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/51e4eb6518ef375c9defa014c0b436ab/transformed/core-1.9.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.core:core-ktx:1.9.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/66067f15b6702a52e8e16f5480a9d35f/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.test:core:1.4.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/5243ec70484a4c48bfcb294e52a221f7/transformed/jetified-core-1.4.0/AndroidManifest.xml:17:1-53:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/85aee61b44ba8aa003b3f5962b30d75a/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/oriade-soft-dev/.gradle/caches/transforms-3/b2e8e0e008358a2f8284b4aa1987528b/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /home/oriade-soft-dev/.gradle/caches/transforms-3/bd82d633d7e31c843b90b94afea564bb/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/5c3e2ed34ce3fdb560dc6c8bef7a3822/transformed/jetified-savedstate-ktx-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/15c044978e21da5a047ed456e4295a72/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/3610ddd6b159f6f908231ab3060e1b69/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.test:monitor:1.4.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/7829ead15443e8d263ac9501a39e415e/transformed/monitor-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/oriade-soft-dev/.gradle/caches/transforms-3/705de7768fe10b25902e3eab7a6e24a4/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/oriade-soft-dev/.gradle/caches/transforms-3/ff252c509965f64ab561a431e3de7fa1/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/9b02614ca0b0255217268af3d00a0c9a/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] /home/oriade-soft-dev/.gradle/caches/transforms-3/4732f545544d5289cfd224c33865ea08/transformed/jetified-lifecycle-livedata-core-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/cae27400105d4540260e284fb13ec940/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /home/oriade-soft-dev/.gradle/caches/transforms-3/3e80f281c0ebf055751b3d65295d780b/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/639011f88ce1c3da09ea890a227b8bd3/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/3d837a613e464327cbe6a0a197512d5d/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/5133f8eca80beccb081ae354cdad13e2/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/22723dc86ad521f1c0af1aff35ee67ba/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/1dcbcedebfe70895f4877a532af35e2f/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/11f7d39376ac4b9bafb63bcfdcf73c77/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml:17:1-52:12
+INJECTED from /home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml:17:1-52:12
+INJECTED from /home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml:17:1-52:12
+	package
+		ADDED from /home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml:18:5-35
+		INJECTED from /home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml
+		INJECTED from /home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml
+		ADDED from /home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml:17:1-52:12
+		INJECTED from /home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml
+		ADDED from /home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml:17:1-52:12
+		INJECTED from /home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml:17:11-69
+application
+ADDED from /home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml:20:5-50:19
+MERGED from [androidx.fragment:fragment-testing:1.5.5] /home/oriade-soft-dev/.gradle/caches/transforms-3/2f17188a359657c15f79654adf3f3cc2/transformed/jetified-fragment-testing-1.5.5/AndroidManifest.xml:27:5-38:19
+MERGED from [androidx.fragment:fragment-testing:1.5.5] /home/oriade-soft-dev/.gradle/caches/transforms-3/2f17188a359657c15f79654adf3f3cc2/transformed/jetified-fragment-testing-1.5.5/AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.android.material:material:1.8.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/e167ad528ae26b9921b0a2b967b25f84/transformed/material-1.8.0/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.8.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/e167ad528ae26b9921b0a2b967b25f84/transformed/material-1.8.0/AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/oriade-soft-dev/.gradle/caches/transforms-3/298cde4e8f53554f03c8dd5af839572c/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/oriade-soft-dev/.gradle/caches/transforms-3/298cde4e8f53554f03c8dd5af839572c/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/899afbd7de8e49bac8d94babead35924/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/899afbd7de8e49bac8d94babead35924/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.9.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/51e4eb6518ef375c9defa014c0b436ab/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/51e4eb6518ef375c9defa014c0b436ab/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.test:core:1.4.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/5243ec70484a4c48bfcb294e52a221f7/transformed/jetified-core-1.4.0/AndroidManifest.xml:26:5-51:19
+MERGED from [androidx.test:core:1.4.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/5243ec70484a4c48bfcb294e52a221f7/transformed/jetified-core-1.4.0/AndroidManifest.xml:26:5-51:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/oriade-soft-dev/.gradle/caches/transforms-3/b2e8e0e008358a2f8284b4aa1987528b/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/oriade-soft-dev/.gradle/caches/transforms-3/b2e8e0e008358a2f8284b4aa1987528b/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/oriade-soft-dev/.gradle/caches/transforms-3/705de7768fe10b25902e3eab7a6e24a4/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/oriade-soft-dev/.gradle/caches/transforms-3/705de7768fe10b25902e3eab7a6e24a4/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/oriade-soft-dev/.gradle/caches/transforms-3/ff252c509965f64ab561a431e3de7fa1/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/oriade-soft-dev/.gradle/caches/transforms-3/ff252c509965f64ab561a431e3de7fa1/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/51e4eb6518ef375c9defa014c0b436ab/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml:25:9-35
+	android:label
+		ADDED from /home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml:23:9-41
+	android:roundIcon
+		ADDED from /home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml:24:9-54
+	android:icon
+		ADDED from /home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml:22:9-43
+	android:allowBackup
+		ADDED from /home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from /home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml:26:9-46
+activity#com.example.dogglers.VerticalListActivity
+ADDED from /home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml:27:9-31:20
+	android:name
+		ADDED from /home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml:27:19-55
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml:28:13-30:49
+	android:value
+		ADDED from /home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml:30:17-46
+	android:name
+		ADDED from /home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml:29:17-63
+activity#com.example.dogglers.HorizontalListActivity
+ADDED from /home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml:32:9-36:20
+	android:name
+		ADDED from /home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml:32:19-57
+activity#com.example.dogglers.GridListActivity
+ADDED from /home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml:37:9-41:20
+	android:name
+		ADDED from /home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml:37:19-51
+activity#com.example.dogglers.MainActivity
+ADDED from /home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml:42:9-49:20
+	android:exported
+		ADDED from /home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml:43:13-36
+	android:name
+		ADDED from /home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml:42:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml:44:13-48:29
+action#android.intent.action.MAIN
+ADDED from /home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml:45:17-69
+	android:name
+		ADDED from /home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml:45:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml:47:17-77
+	android:name
+		ADDED from /home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml:47:27-74
+uses-sdk
+INJECTED from /home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml
+INJECTED from /home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.3.1] /home/oriade-soft-dev/.gradle/caches/transforms-3/5d41ac882315a24f7cdd5764470ca69c/transformed/jetified-viewbinding-7.3.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.databinding:viewbinding:7.3.1] /home/oriade-soft-dev/.gradle/caches/transforms-3/5d41ac882315a24f7cdd5764470ca69c/transformed/jetified-viewbinding-7.3.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment-testing:1.5.5] /home/oriade-soft-dev/.gradle/caches/transforms-3/2f17188a359657c15f79654adf3f3cc2/transformed/jetified-fragment-testing-1.5.5/AndroidManifest.xml:20:5-23:54
+MERGED from [androidx.fragment:fragment-testing:1.5.5] /home/oriade-soft-dev/.gradle/caches/transforms-3/2f17188a359657c15f79654adf3f3cc2/transformed/jetified-fragment-testing-1.5.5/AndroidManifest.xml:20:5-23:54
+MERGED from [androidx.fragment:fragment-ktx:1.5.5] /home/oriade-soft-dev/.gradle/caches/transforms-3/7a6e92930a0b39e2730adf3fb6eeb056/transformed/jetified-fragment-ktx-1.5.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.5] /home/oriade-soft-dev/.gradle/caches/transforms-3/7a6e92930a0b39e2730adf3fb6eeb056/transformed/jetified-fragment-ktx-1.5.5/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.8.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/e167ad528ae26b9921b0a2b967b25f84/transformed/material-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.8.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/e167ad528ae26b9921b0a2b967b25f84/transformed/material-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/oriade-soft-dev/.gradle/caches/transforms-3/298cde4e8f53554f03c8dd5af839572c/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/oriade-soft-dev/.gradle/caches/transforms-3/298cde4e8f53554f03c8dd5af839572c/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/0c3a33e97fc30c5b56d2d8bd07cf5a30/transformed/jetified-appcompat-resources-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/0c3a33e97fc30c5b56d2d8bd07cf5a30/transformed/jetified-appcompat-resources-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/5c03a391317d7246990049ee3c76c15b/transformed/appcompat-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/5c03a391317d7246990049ee3c76c15b/transformed/appcompat-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/0bb3362ae9183caf5bc95cddcb7cf8c0/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/0bb3362ae9183caf5bc95cddcb7cf8c0/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/fc1ea90aaab4ca25e740cbc3ee9ba859/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/fc1ea90aaab4ca25e740cbc3ee9ba859/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.5] /home/oriade-soft-dev/.gradle/caches/transforms-3/aca9bf872eb890b3c8c5704a30799c95/transformed/fragment-1.5.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.5] /home/oriade-soft-dev/.gradle/caches/transforms-3/aca9bf872eb890b3c8c5704a30799c95/transformed/fragment-1.5.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.6.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/7b5e4dfdd5dbc989e9054543cd677789/transformed/jetified-activity-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/7b5e4dfdd5dbc989e9054543cd677789/transformed/jetified-activity-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.6.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/c665379d20e63f89d261ad94268a3e69/transformed/jetified-activity-ktx-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.6.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/c665379d20e63f89d261ad94268a3e69/transformed/jetified-activity-ktx-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /home/oriade-soft-dev/.gradle/caches/transforms-3/2c67240205a979b0c55d316d00027510/transformed/jetified-lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /home/oriade-soft-dev/.gradle/caches/transforms-3/2c67240205a979b0c55d316d00027510/transformed/jetified-lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/34e123b47194e11067eb8031d6fa293c/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/34e123b47194e11067eb8031d6fa293c/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/3c5bc890a1f74eda248c83c01fb5c862/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/3c5bc890a1f74eda248c83c01fb5c862/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/3561c00a7b9e26f5abc0a567792dddc4/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/3561c00a7b9e26f5abc0a567792dddc4/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/f3f9f174bf3e072e5123b707a16838a1/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/f3f9f174bf3e072e5123b707a16838a1/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /home/oriade-soft-dev/.gradle/caches/transforms-3/ea447920b881072949b22a3f9cb6e9da/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /home/oriade-soft-dev/.gradle/caches/transforms-3/ea447920b881072949b22a3f9cb6e9da/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /home/oriade-soft-dev/.gradle/caches/transforms-3/e5374d4078674ba54e67f2c8adf872c5/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /home/oriade-soft-dev/.gradle/caches/transforms-3/e5374d4078674ba54e67f2c8adf872c5/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /home/oriade-soft-dev/.gradle/caches/transforms-3/3dcc3da2082b38863acf223f2ea271b4/transformed/jetified-lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /home/oriade-soft-dev/.gradle/caches/transforms-3/3dcc3da2082b38863acf223f2ea271b4/transformed/jetified-lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/88b18ed2a28342751174c8f28baa2866/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/88b18ed2a28342751174c8f28baa2866/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/899afbd7de8e49bac8d94babead35924/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/899afbd7de8e49bac8d94babead35924/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/oriade-soft-dev/.gradle/caches/transforms-3/6eef259bb3fa3dd35c0f33e3801b3f2e/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/oriade-soft-dev/.gradle/caches/transforms-3/6eef259bb3fa3dd35c0f33e3801b3f2e/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/6cbd0eb033f8d92fb928982b8a90a9c6/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/6cbd0eb033f8d92fb928982b8a90a9c6/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/fcef9af2c7a8c5d632ddf89d8b9e6429/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/fcef9af2c7a8c5d632ddf89d8b9e6429/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/6efdcaf2ca5ba78dd278b4a40c3f4696/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/6efdcaf2ca5ba78dd278b4a40c3f4696/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/b11d8a94896ac79f275d0eec411bb9eb/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/b11d8a94896ac79f275d0eec411bb9eb/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/833d251242322d593cf894da73fd29e1/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/833d251242322d593cf894da73fd29e1/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/78bd238257028de90131885c2b61e2c5/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/78bd238257028de90131885c2b61e2c5/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/60cac8cf54d1011eb500415ae86f6355/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/60cac8cf54d1011eb500415ae86f6355/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/947a0b3ddf80a352318fca6c3c3fcadb/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/947a0b3ddf80a352318fca6c3c3fcadb/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/ce05bc7d27c3c8034ce410987c6c19e3/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/ce05bc7d27c3c8034ce410987c6c19e3/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/7f2e0a8a74db8de6fdc2b569ddfc1cf6/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/7f2e0a8a74db8de6fdc2b569ddfc1cf6/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/ba5fe10c733ae640e26b5c166b1b8e68/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/ba5fe10c733ae640e26b5c166b1b8e68/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/51e4eb6518ef375c9defa014c0b436ab/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/51e4eb6518ef375c9defa014c0b436ab/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/66067f15b6702a52e8e16f5480a9d35f/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/66067f15b6702a52e8e16f5480a9d35f/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.test:core:1.4.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/5243ec70484a4c48bfcb294e52a221f7/transformed/jetified-core-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:core:1.4.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/5243ec70484a4c48bfcb294e52a221f7/transformed/jetified-core-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/85aee61b44ba8aa003b3f5962b30d75a/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/85aee61b44ba8aa003b3f5962b30d75a/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/oriade-soft-dev/.gradle/caches/transforms-3/b2e8e0e008358a2f8284b4aa1987528b/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/oriade-soft-dev/.gradle/caches/transforms-3/b2e8e0e008358a2f8284b4aa1987528b/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /home/oriade-soft-dev/.gradle/caches/transforms-3/bd82d633d7e31c843b90b94afea564bb/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /home/oriade-soft-dev/.gradle/caches/transforms-3/bd82d633d7e31c843b90b94afea564bb/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/5c3e2ed34ce3fdb560dc6c8bef7a3822/transformed/jetified-savedstate-ktx-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/5c3e2ed34ce3fdb560dc6c8bef7a3822/transformed/jetified-savedstate-ktx-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/15c044978e21da5a047ed456e4295a72/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/15c044978e21da5a047ed456e4295a72/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/3610ddd6b159f6f908231ab3060e1b69/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/3610ddd6b159f6f908231ab3060e1b69/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.test:monitor:1.4.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/7829ead15443e8d263ac9501a39e415e/transformed/monitor-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:monitor:1.4.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/7829ead15443e8d263ac9501a39e415e/transformed/monitor-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/oriade-soft-dev/.gradle/caches/transforms-3/705de7768fe10b25902e3eab7a6e24a4/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/oriade-soft-dev/.gradle/caches/transforms-3/705de7768fe10b25902e3eab7a6e24a4/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/oriade-soft-dev/.gradle/caches/transforms-3/ff252c509965f64ab561a431e3de7fa1/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/oriade-soft-dev/.gradle/caches/transforms-3/ff252c509965f64ab561a431e3de7fa1/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/9b02614ca0b0255217268af3d00a0c9a/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/9b02614ca0b0255217268af3d00a0c9a/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] /home/oriade-soft-dev/.gradle/caches/transforms-3/4732f545544d5289cfd224c33865ea08/transformed/jetified-lifecycle-livedata-core-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] /home/oriade-soft-dev/.gradle/caches/transforms-3/4732f545544d5289cfd224c33865ea08/transformed/jetified-lifecycle-livedata-core-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/cae27400105d4540260e284fb13ec940/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/cae27400105d4540260e284fb13ec940/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /home/oriade-soft-dev/.gradle/caches/transforms-3/3e80f281c0ebf055751b3d65295d780b/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /home/oriade-soft-dev/.gradle/caches/transforms-3/3e80f281c0ebf055751b3d65295d780b/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/639011f88ce1c3da09ea890a227b8bd3/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/639011f88ce1c3da09ea890a227b8bd3/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/3d837a613e464327cbe6a0a197512d5d/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/3d837a613e464327cbe6a0a197512d5d/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/5133f8eca80beccb081ae354cdad13e2/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/5133f8eca80beccb081ae354cdad13e2/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/22723dc86ad521f1c0af1aff35ee67ba/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/22723dc86ad521f1c0af1aff35ee67ba/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/1dcbcedebfe70895f4877a532af35e2f/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/1dcbcedebfe70895f4877a532af35e2f/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/11f7d39376ac4b9bafb63bcfdcf73c77/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/11f7d39376ac4b9bafb63bcfdcf73c77/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+INJECTED from /home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml
+INJECTED from /home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [androidx.fragment:fragment-testing:1.5.5] /home/oriade-soft-dev/.gradle/caches/transforms-3/2f17188a359657c15f79654adf3f3cc2/transformed/jetified-fragment-testing-1.5.5/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from /home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml
+		ADDED from /home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml
+		INJECTED from /home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml
+		ADDED from /home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml
+		INJECTED from /home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.REORDER_TASKS
+ADDED from [androidx.fragment:fragment-testing:1.5.5] /home/oriade-soft-dev/.gradle/caches/transforms-3/2f17188a359657c15f79654adf3f3cc2/transformed/jetified-fragment-testing-1.5.5/AndroidManifest.xml:25:5-72
+MERGED from [androidx.test:core:1.4.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/5243ec70484a4c48bfcb294e52a221f7/transformed/jetified-core-1.4.0/AndroidManifest.xml:24:5-72
+MERGED from [androidx.test:core:1.4.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/5243ec70484a4c48bfcb294e52a221f7/transformed/jetified-core-1.4.0/AndroidManifest.xml:24:5-72
+	android:name
+		ADDED from [androidx.fragment:fragment-testing:1.5.5] /home/oriade-soft-dev/.gradle/caches/transforms-3/2f17188a359657c15f79654adf3f3cc2/transformed/jetified-fragment-testing-1.5.5/AndroidManifest.xml:25:22-69
+activity#androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity
+ADDED from [androidx.fragment:fragment-testing:1.5.5] /home/oriade-soft-dev/.gradle/caches/transforms-3/2f17188a359657c15f79654adf3f3cc2/transformed/jetified-fragment-testing-1.5.5/AndroidManifest.xml:28:9-37:20
+	android:multiprocess
+		ADDED from [androidx.fragment:fragment-testing:1.5.5] /home/oriade-soft-dev/.gradle/caches/transforms-3/2f17188a359657c15f79654adf3f3cc2/transformed/jetified-fragment-testing-1.5.5/AndroidManifest.xml:31:13-40
+	android:exported
+		ADDED from [androidx.fragment:fragment-testing:1.5.5] /home/oriade-soft-dev/.gradle/caches/transforms-3/2f17188a359657c15f79654adf3f3cc2/transformed/jetified-fragment-testing-1.5.5/AndroidManifest.xml:30:13-36
+	android:theme
+		ADDED from [androidx.fragment:fragment-testing:1.5.5] /home/oriade-soft-dev/.gradle/caches/transforms-3/2f17188a359657c15f79654adf3f3cc2/transformed/jetified-fragment-testing-1.5.5/AndroidManifest.xml:33:13-78
+	android:taskAffinity
+		ADDED from [androidx.fragment:fragment-testing:1.5.5] /home/oriade-soft-dev/.gradle/caches/transforms-3/2f17188a359657c15f79654adf3f3cc2/transformed/jetified-fragment-testing-1.5.5/AndroidManifest.xml:32:13-36
+	android:name
+		ADDED from [androidx.fragment:fragment-testing:1.5.5] /home/oriade-soft-dev/.gradle/caches/transforms-3/2f17188a359657c15f79654adf3f3cc2/transformed/jetified-fragment-testing-1.5.5/AndroidManifest.xml:29:13-96
+intent-filter#action:name:android.intent.action.MAIN
+ADDED from [androidx.fragment:fragment-testing:1.5.5] /home/oriade-soft-dev/.gradle/caches/transforms-3/2f17188a359657c15f79654adf3f3cc2/transformed/jetified-fragment-testing-1.5.5/AndroidManifest.xml:34:13-36:29
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/899afbd7de8e49bac8d94babead35924/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/oriade-soft-dev/.gradle/caches/transforms-3/b2e8e0e008358a2f8284b4aa1987528b/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/oriade-soft-dev/.gradle/caches/transforms-3/b2e8e0e008358a2f8284b4aa1987528b/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/oriade-soft-dev/.gradle/caches/transforms-3/ff252c509965f64ab561a431e3de7fa1/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/oriade-soft-dev/.gradle/caches/transforms-3/ff252c509965f64ab561a431e3de7fa1/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/899afbd7de8e49bac8d94babead35924/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/899afbd7de8e49bac8d94babead35924/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/899afbd7de8e49bac8d94babead35924/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/899afbd7de8e49bac8d94babead35924/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/899afbd7de8e49bac8d94babead35924/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/899afbd7de8e49bac8d94babead35924/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/899afbd7de8e49bac8d94babead35924/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/51e4eb6518ef375c9defa014c0b436ab/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/51e4eb6518ef375c9defa014c0b436ab/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/51e4eb6518ef375c9defa014c0b436ab/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+permission#com.example.dogglers.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/51e4eb6518ef375c9defa014c0b436ab/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/51e4eb6518ef375c9defa014c0b436ab/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/51e4eb6518ef375c9defa014c0b436ab/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/51e4eb6518ef375c9defa014c0b436ab/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/51e4eb6518ef375c9defa014c0b436ab/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+uses-permission#com.example.dogglers.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/51e4eb6518ef375c9defa014c0b436ab/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/51e4eb6518ef375c9defa014c0b436ab/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+activity#androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity
+ADDED from [androidx.test:core:1.4.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/5243ec70484a4c48bfcb294e52a221f7/transformed/jetified-core-1.4.0/AndroidManifest.xml:27:9-34:20
+	android:exported
+		ADDED from [androidx.test:core:1.4.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/5243ec70484a4c48bfcb294e52a221f7/transformed/jetified-core-1.4.0/AndroidManifest.xml:29:13-36
+	android:theme
+		ADDED from [androidx.test:core:1.4.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/5243ec70484a4c48bfcb294e52a221f7/transformed/jetified-core-1.4.0/AndroidManifest.xml:30:13-49
+	android:name
+		ADDED from [androidx.test:core:1.4.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/5243ec70484a4c48bfcb294e52a221f7/transformed/jetified-core-1.4.0/AndroidManifest.xml:28:13-99
+activity#androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity
+ADDED from [androidx.test:core:1.4.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/5243ec70484a4c48bfcb294e52a221f7/transformed/jetified-core-1.4.0/AndroidManifest.xml:35:9-42:20
+	android:exported
+		ADDED from [androidx.test:core:1.4.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/5243ec70484a4c48bfcb294e52a221f7/transformed/jetified-core-1.4.0/AndroidManifest.xml:37:13-36
+	android:theme
+		ADDED from [androidx.test:core:1.4.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/5243ec70484a4c48bfcb294e52a221f7/transformed/jetified-core-1.4.0/AndroidManifest.xml:38:13-49
+	android:name
+		ADDED from [androidx.test:core:1.4.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/5243ec70484a4c48bfcb294e52a221f7/transformed/jetified-core-1.4.0/AndroidManifest.xml:36:13-95
+activity#androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity
+ADDED from [androidx.test:core:1.4.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/5243ec70484a4c48bfcb294e52a221f7/transformed/jetified-core-1.4.0/AndroidManifest.xml:43:9-50:20
+	android:exported
+		ADDED from [androidx.test:core:1.4.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/5243ec70484a4c48bfcb294e52a221f7/transformed/jetified-core-1.4.0/AndroidManifest.xml:45:13-36
+	android:theme
+		ADDED from [androidx.test:core:1.4.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/5243ec70484a4c48bfcb294e52a221f7/transformed/jetified-core-1.4.0/AndroidManifest.xml:46:13-56
+	android:name
+		ADDED from [androidx.test:core:1.4.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/5243ec70484a4c48bfcb294e52a221f7/transformed/jetified-core-1.4.0/AndroidManifest.xml:44:13-103
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/oriade-soft-dev/.gradle/caches/transforms-3/b2e8e0e008358a2f8284b4aa1987528b/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/oriade-soft-dev/.gradle/caches/transforms-3/b2e8e0e008358a2f8284b4aa1987528b/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/oriade-soft-dev/.gradle/caches/transforms-3/b2e8e0e008358a2f8284b4aa1987528b/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78

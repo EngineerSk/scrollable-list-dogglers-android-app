@@ -38,26 +38,26 @@ class HorizontalListTests : BaseTest() {
             = ActivityScenarioRule(HorizontalListActivity::class.java)
 
     @Test
-    fun `horizontal_scroll_content_at_first_position`() {
+    fun horizontal_scroll_content_at_first_position() {
         checkFirstPosition()
     }
 
     @Test
-    fun `horizontal_scroll_content_at_last_position`() {
+    fun horizontal_scroll_content_at_last_position() {
         onView(withId(R.id.horizontal_recycler_view))
             .perform(scrollToPosition<RecyclerView.ViewHolder>(lastPosition))
         onView(withText("Bella")).check(matches(isDisplayed()))
     }
 
     @Test
-    fun `horizontal_scrolling`() {
+    fun horizontal_scrolling() {
         onView(withId(R.id.horizontal_recycler_view))
             .perform(swipeLeft())
         onView(withText("Frankie")).check(matches(isDisplayed()))
     }
 
     @Test
-    fun `recycler_view_item_count`() {
+    fun recycler_view_item_count() {
         onView(withId(R.id.horizontal_recycler_view)).check(hasItemCount(6))
     }
 }

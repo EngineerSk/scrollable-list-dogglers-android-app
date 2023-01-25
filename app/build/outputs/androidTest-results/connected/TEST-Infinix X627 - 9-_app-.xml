@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite tests="0" failures="0" errors="0" skipped="0" time="0.033" timestamp="2023-01-25T09:07:50" hostname="localhost">
+  <properties>
+    <property name="device" value="Infinix X627 - 9" />
+    <property name="flavor" value="" />
+    <property name="project" value=":app" />
+  </properties>
+  <system-err>Test run failed to complete. No test results
+</system-err>
+</testsuite>

@@ -32,13 +32,11 @@ import androidx.test.espresso.matcher.BoundedMatcher
 import androidx.test.espresso.matcher.ViewMatchers
 import androidx.test.espresso.matcher.ViewMatchers.isDisplayed
 import androidx.test.espresso.matcher.ViewMatchers.withText
-import androidx.test.ext.junit.runners.AndroidJUnit4
 import com.example.dogglers.BaseTest.DrawableMatcher.withDrawable
 import com.example.dogglers.data.DataSource
 import org.hamcrest.CoreMatchers
 import org.hamcrest.Description
 import org.hamcrest.Matcher
-import java.lang.IllegalStateException
 
 open class BaseTest {
 

@@ -1,0 +1,197 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!--
+3  ~ Copyright (C) 2021 The Android Open Source Project.
+4  ~
+5  ~ Licensed under the Apache License, Version 2.0 (the "License");
+6  ~ you may not use this file except in compliance with the License.
+7  ~ You may obtain a copy of the License at
+8  ~
+9  ~     http://www.apache.org/licenses/LICENSE-2.0
+10  ~
+11  ~ Unless required by applicable law or agreed to in writing, software
+12  ~ distributed under the License is distributed on an "AS IS" BASIS,
+13  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+14  ~ See the License for the specific language governing permissions and
+15  ~ limitations under the License.
+16-->
+17<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+18    package="com.example.dogglers"
+19    android:versionCode="1"
+20    android:versionName="1.0" >
+21
+22    <uses-sdk
+23        android:minSdkVersion="21"
+23-->/home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml
+24        android:targetSdkVersion="33" />
+24-->/home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml
+25
+26    <uses-permission android:name="android.permission.REORDER_TASKS" />
+26-->[androidx.fragment:fragment-testing:1.5.5] /home/oriade-soft-dev/.gradle/caches/transforms-3/2f17188a359657c15f79654adf3f3cc2/transformed/jetified-fragment-testing-1.5.5/AndroidManifest.xml:25:5-72
+26-->[androidx.fragment:fragment-testing:1.5.5] /home/oriade-soft-dev/.gradle/caches/transforms-3/2f17188a359657c15f79654adf3f3cc2/transformed/jetified-fragment-testing-1.5.5/AndroidManifest.xml:25:22-69
+27
+28    <permission
+28-->[androidx.core:core:1.9.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/51e4eb6518ef375c9defa014c0b436ab/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+29        android:name="com.example.dogglers.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+29-->[androidx.core:core:1.9.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/51e4eb6518ef375c9defa014c0b436ab/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+30        android:protectionLevel="signature" />
+30-->[androidx.core:core:1.9.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/51e4eb6518ef375c9defa014c0b436ab/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+31
+32    <uses-permission android:name="com.example.dogglers.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+32-->[androidx.core:core:1.9.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/51e4eb6518ef375c9defa014c0b436ab/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+32-->[androidx.core:core:1.9.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/51e4eb6518ef375c9defa014c0b436ab/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+33
+34    <application
+34-->/home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml:20:5-50:19
+35        android:allowBackup="true"
+35-->/home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml:21:9-35
+36        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+36-->[androidx.core:core:1.9.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/51e4eb6518ef375c9defa014c0b436ab/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+37        android:debuggable="true"
+38        android:icon="@mipmap/ic_launcher"
+38-->/home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml:22:9-43
+39        android:label="@string/app_name"
+39-->/home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml:23:9-41
+40        android:roundIcon="@mipmap/ic_launcher_round"
+40-->/home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml:24:9-54
+41        android:supportsRtl="true"
+41-->/home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml:25:9-35
+42        android:testOnly="true"
+43        android:theme="@style/Theme.Dogglers" >
+43-->/home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml:26:9-46
+44        <activity android:name="com.example.dogglers.VerticalListActivity" >
+44-->/home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml:27:9-31:20
+44-->/home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml:27:19-55
+45            <meta-data
+45-->/home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml:28:13-30:49
+46                android:name="android.support.PARENT_ACTIVITY"
+46-->/home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml:29:17-63
+47                android:value=".MainActivity" />
+47-->/home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml:30:17-46
+48        </activity>
+49        <activity android:name="com.example.dogglers.HorizontalListActivity" >
+49-->/home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml:32:9-36:20
+49-->/home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml:32:19-57
+50            <meta-data
+50-->/home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml:28:13-30:49
+51                android:name="android.support.PARENT_ACTIVITY"
+51-->/home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml:29:17-63
+52                android:value=".MainActivity" />
+52-->/home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml:30:17-46
+53        </activity>
+54        <activity android:name="com.example.dogglers.GridListActivity" >
+54-->/home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml:37:9-41:20
+54-->/home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml:37:19-51
+55            <meta-data
+55-->/home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml:28:13-30:49
+56                android:name="android.support.PARENT_ACTIVITY"
+56-->/home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml:29:17-63
+57                android:value=".MainActivity" />
+57-->/home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml:30:17-46
+58        </activity>
+59        <activity
+59-->/home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml:42:9-49:20
+60            android:name="com.example.dogglers.MainActivity"
+60-->/home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml:42:19-47
+61            android:exported="true" >
+61-->/home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml:43:13-36
+62            <intent-filter>
+62-->/home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml:44:13-48:29
+63                <action android:name="android.intent.action.MAIN" />
+63-->/home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml:45:17-69
+63-->/home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml:45:25-66
+64
+65                <category android:name="android.intent.category.LAUNCHER" />
+65-->/home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml:47:17-77
+65-->/home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml:47:27-74
+66            </intent-filter>
+67        </activity>
+68        <activity
+68-->[androidx.fragment:fragment-testing:1.5.5] /home/oriade-soft-dev/.gradle/caches/transforms-3/2f17188a359657c15f79654adf3f3cc2/transformed/jetified-fragment-testing-1.5.5/AndroidManifest.xml:28:9-37:20
+69            android:name="androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity"
+69-->[androidx.fragment:fragment-testing:1.5.5] /home/oriade-soft-dev/.gradle/caches/transforms-3/2f17188a359657c15f79654adf3f3cc2/transformed/jetified-fragment-testing-1.5.5/AndroidManifest.xml:29:13-96
+70            android:exported="true"
+70-->[androidx.fragment:fragment-testing:1.5.5] /home/oriade-soft-dev/.gradle/caches/transforms-3/2f17188a359657c15f79654adf3f3cc2/transformed/jetified-fragment-testing-1.5.5/AndroidManifest.xml:30:13-36
+71            android:multiprocess="true"
+71-->[androidx.fragment:fragment-testing:1.5.5] /home/oriade-soft-dev/.gradle/caches/transforms-3/2f17188a359657c15f79654adf3f3cc2/transformed/jetified-fragment-testing-1.5.5/AndroidManifest.xml:31:13-40
+72            android:taskAffinity=""
+72-->[androidx.fragment:fragment-testing:1.5.5] /home/oriade-soft-dev/.gradle/caches/transforms-3/2f17188a359657c15f79654adf3f3cc2/transformed/jetified-fragment-testing-1.5.5/AndroidManifest.xml:32:13-36
+73            android:theme="@style/FragmentScenarioEmptyFragmentActivityTheme" >
+73-->[androidx.fragment:fragment-testing:1.5.5] /home/oriade-soft-dev/.gradle/caches/transforms-3/2f17188a359657c15f79654adf3f3cc2/transformed/jetified-fragment-testing-1.5.5/AndroidManifest.xml:33:13-78
+74            <intent-filter>
+74-->[androidx.fragment:fragment-testing:1.5.5] /home/oriade-soft-dev/.gradle/caches/transforms-3/2f17188a359657c15f79654adf3f3cc2/transformed/jetified-fragment-testing-1.5.5/AndroidManifest.xml:34:13-36:29
+75                <action android:name="android.intent.action.MAIN" />
+75-->/home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml:45:17-69
+75-->/home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml:45:25-66
+76            </intent-filter>
+77        </activity>
+78
+79        <provider
+79-->[androidx.emoji2:emoji2:1.2.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/899afbd7de8e49bac8d94babead35924/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+80            android:name="androidx.startup.InitializationProvider"
+80-->[androidx.emoji2:emoji2:1.2.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/899afbd7de8e49bac8d94babead35924/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:25:13-67
+81            android:authorities="com.example.dogglers.androidx-startup"
+81-->[androidx.emoji2:emoji2:1.2.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/899afbd7de8e49bac8d94babead35924/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:26:13-68
+82            android:exported="false" >
+82-->[androidx.emoji2:emoji2:1.2.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/899afbd7de8e49bac8d94babead35924/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:27:13-37
+83            <meta-data
+83-->[androidx.emoji2:emoji2:1.2.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/899afbd7de8e49bac8d94babead35924/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+84                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+84-->[androidx.emoji2:emoji2:1.2.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/899afbd7de8e49bac8d94babead35924/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:30:17-75
+85                android:value="androidx.startup" />
+85-->[androidx.emoji2:emoji2:1.2.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/899afbd7de8e49bac8d94babead35924/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:31:17-49
+86            <meta-data
+86-->[androidx.lifecycle:lifecycle-process:2.4.1] /home/oriade-soft-dev/.gradle/caches/transforms-3/b2e8e0e008358a2f8284b4aa1987528b/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+87                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+87-->[androidx.lifecycle:lifecycle-process:2.4.1] /home/oriade-soft-dev/.gradle/caches/transforms-3/b2e8e0e008358a2f8284b4aa1987528b/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+88                android:value="androidx.startup" />
+88-->[androidx.lifecycle:lifecycle-process:2.4.1] /home/oriade-soft-dev/.gradle/caches/transforms-3/b2e8e0e008358a2f8284b4aa1987528b/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+89        </provider>
+90
+91        <activity
+91-->[androidx.test:core:1.4.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/5243ec70484a4c48bfcb294e52a221f7/transformed/jetified-core-1.4.0/AndroidManifest.xml:27:9-34:20
+92            android:name="androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity"
+92-->[androidx.test:core:1.4.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/5243ec70484a4c48bfcb294e52a221f7/transformed/jetified-core-1.4.0/AndroidManifest.xml:28:13-99
+93            android:exported="true"
+93-->[androidx.test:core:1.4.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/5243ec70484a4c48bfcb294e52a221f7/transformed/jetified-core-1.4.0/AndroidManifest.xml:29:13-36
+94            android:theme="@android:style/Theme" >
+94-->[androidx.test:core:1.4.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/5243ec70484a4c48bfcb294e52a221f7/transformed/jetified-core-1.4.0/AndroidManifest.xml:30:13-49
+95            <intent-filter>
+95-->[androidx.fragment:fragment-testing:1.5.5] /home/oriade-soft-dev/.gradle/caches/transforms-3/2f17188a359657c15f79654adf3f3cc2/transformed/jetified-fragment-testing-1.5.5/AndroidManifest.xml:34:13-36:29
+96                <action android:name="android.intent.action.MAIN" />
+96-->/home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml:45:17-69
+96-->/home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml:45:25-66
+97            </intent-filter>
+98        </activity>
+99        <activity
+99-->[androidx.test:core:1.4.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/5243ec70484a4c48bfcb294e52a221f7/transformed/jetified-core-1.4.0/AndroidManifest.xml:35:9-42:20
+100            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity"
+100-->[androidx.test:core:1.4.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/5243ec70484a4c48bfcb294e52a221f7/transformed/jetified-core-1.4.0/AndroidManifest.xml:36:13-95
+101            android:exported="true"
+101-->[androidx.test:core:1.4.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/5243ec70484a4c48bfcb294e52a221f7/transformed/jetified-core-1.4.0/AndroidManifest.xml:37:13-36
+102            android:theme="@android:style/Theme" >
+102-->[androidx.test:core:1.4.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/5243ec70484a4c48bfcb294e52a221f7/transformed/jetified-core-1.4.0/AndroidManifest.xml:38:13-49
+103            <intent-filter>
+103-->[androidx.fragment:fragment-testing:1.5.5] /home/oriade-soft-dev/.gradle/caches/transforms-3/2f17188a359657c15f79654adf3f3cc2/transformed/jetified-fragment-testing-1.5.5/AndroidManifest.xml:34:13-36:29
+104                <action android:name="android.intent.action.MAIN" />
+104-->/home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml:45:17-69
+104-->/home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml:45:25-66
+105            </intent-filter>
+106        </activity>
+107        <activity
+107-->[androidx.test:core:1.4.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/5243ec70484a4c48bfcb294e52a221f7/transformed/jetified-core-1.4.0/AndroidManifest.xml:43:9-50:20
+108            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity"
+108-->[androidx.test:core:1.4.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/5243ec70484a4c48bfcb294e52a221f7/transformed/jetified-core-1.4.0/AndroidManifest.xml:44:13-103
+109            android:exported="true"
+109-->[androidx.test:core:1.4.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/5243ec70484a4c48bfcb294e52a221f7/transformed/jetified-core-1.4.0/AndroidManifest.xml:45:13-36
+110            android:theme="@android:style/Theme.Dialog" >
+110-->[androidx.test:core:1.4.0] /home/oriade-soft-dev/.gradle/caches/transforms-3/5243ec70484a4c48bfcb294e52a221f7/transformed/jetified-core-1.4.0/AndroidManifest.xml:46:13-56
+111            <intent-filter>
+111-->[androidx.fragment:fragment-testing:1.5.5] /home/oriade-soft-dev/.gradle/caches/transforms-3/2f17188a359657c15f79654adf3f3cc2/transformed/jetified-fragment-testing-1.5.5/AndroidManifest.xml:34:13-36:29
+112                <action android:name="android.intent.action.MAIN" />
+112-->/home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml:45:17-69
+112-->/home/oriade-soft-dev/AndroidStudioProjects/AndroidDeveloper/AndroidBasicsTutorials/android-basics-kotlin-dogglers-app/app/src/main/AndroidManifest.xml:45:25-66
+113            </intent-filter>
+114        </activity>
+115    </application>
+116
+117</manifest>

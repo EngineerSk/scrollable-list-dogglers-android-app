@@ -35,34 +35,34 @@ class ButtonTests {
         = ActivityScenarioRule(MainActivity::class.java)
 
     @Test
-    fun `vertical_list_button_is_displayed`() {
+    fun vertical_list_button_is_displayed() {
         onView(withId(R.id.vertical_btn)).check(matches(isDisplayed()))
     }
 
     @Test
-    fun `horizontal_list_button_is_displayed`() {
+    fun horizontal_list_button_is_displayed() {
         onView(withId(R.id.horizontal_btn)).check(matches(isDisplayed()))
     }
 
     @Test
-    fun `grid_list_button_is_displayed`() {
+    fun grid_list_button_is_displayed() {
         onView(withId(R.id.grid_btn)).check(matches(isDisplayed()))
     }
 
     @Test
-    fun `clicking_vertical_list_button_displays_vertical_list`() {
+    fun clicking_vertical_list_button_displays_vertical_list() {
         onView(withId(R.id.vertical_btn)).perform(click())
         onView(withId(R.id.vertical_recycler_view)).check(matches(isDisplayed()))
     }
 
     @Test
-    fun `clicking_horizontal_list_button_displays_horizontal_list`() {
+    fun clicking_horizontal_list_button_displays_horizontal_list() {
         onView(withId(R.id.horizontal_btn)).perform(click())
         onView(withId(R.id.horizontal_recycler_view)).check(matches(isDisplayed()))
     }
 
     @Test
-    fun `clicking_grid_list_button_displays_grid_list`() {
+    fun clicking_grid_list_button_displays_grid_list() {
         onView(withId(R.id.grid_btn)).perform(click())
         onView(withId(R.id.grid_recycler_view)).check(matches(isDisplayed()))
     }

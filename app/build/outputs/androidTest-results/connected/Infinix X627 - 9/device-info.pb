@@ -1,0 +1,3 @@
+
+043901197H10157928เชฬ๕
+"ARMv7 Processor rev 4 (v7l)*armeabi-v7a*armeabi2INFINIX MOBILITY LIMITED:043901197H101579RInfinix X627

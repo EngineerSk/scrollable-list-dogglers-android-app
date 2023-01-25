@@ -38,26 +38,26 @@ class VerticalListTests : BaseTest() {
             = ActivityScenarioRule(VerticalListActivity::class.java)
 
     @Test
-    fun `vertical_scroll_content_at_first_position`() {
+    fun vertical_scroll_content_at_first_position() {
         checkFirstPosition()
     }
 
     @Test
-    fun `vertical_scroll_content_at_last_position`() {
+    fun vertical_scroll_content_at_last_position() {
         onView(withId(R.id.vertical_recycler_view))
                 .perform(scrollToPosition<RecyclerView.ViewHolder>(lastPosition))
         onView(withText("Bella")).check(matches(isDisplayed()))
     }
 
     @Test
-    fun `vertical_scrolling`() {
+    fun vertical_scrolling() {
         onView(withId(R.id.vertical_recycler_view))
                 .perform(swipeUp())
         onView(withText("Faye")).check(matches(isDisplayed()))
     }
 
     @Test
-    fun `recycler_view_item_count`() {
+    fun recycler_view_item_count() {
         onView(withId(R.id.vertical_recycler_view)).check(hasItemCount(6))
     }
 }
